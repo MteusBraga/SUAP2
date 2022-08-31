@@ -1,0 +1,20 @@
+# ninja log v5
+1	341	1661297376662858769	CMakeFiles/novo_SUAP_2.dir/aluno_ensino_medio/aluno_ensino_medio.cpp.o	3ceab7ad3182a012
+0	277	1661295454083277010	CMakeFiles/novo_SUAP_2.dir/aluno_superior/aluno_superior.cpp.o	91909cc46495362f
+1	598	1661294108682979999	CMakeFiles/novo_SUAP_2.dir/professor/professor.cpp.o	88a772af1ec0a471
+0	18	1661298598570346117	build.ninja	1ec9472d53c94d40
+363	535	1661297508143585582	novo_SUAP_2	61fd54120babe332
+468	490	1661291275831233999	CMakeFiles/novo_SUAP_2.dir/adimim/admim.cpp.o	e57c4b2f0dab41ee
+1	363	1661297507971584609	CMakeFiles/novo_SUAP_2.dir/main.cpp.o	ee77500827b5aaba
+1	314	1661297385570906846	CMakeFiles/novo_SUAP_2.dir/aluno/aluno.cpp.o	1e2abb6b46f1fae1
+1	597	1661294108682979999	CMakeFiles/novo_SUAP_2.dir/materia/materia.cpp.o	f1c5f62f82e24f6d
+597	796	1661294108902981534	CMakeFiles/novo_SUAP_2.dir/cursos/cursos.cpp.o	7a13e4af249fe10
+1	610	1661294108714980222	CMakeFiles/novo_SUAP_2.dir/boletim/boletim.cpp.o	8bd664852fd5f988
+0	188	1661298598570346117	build.ninja	1ec9472d53c94d40
+1	593	1661298599170350000	CMakeFiles/novo_SUAP_2.dir/aluno/aluno.cpp.o	1e2abb6b46f1fae1
+1	596	1661298599170350000	CMakeFiles/novo_SUAP_2.dir/main.cpp.o	ee77500827b5aaba
+596	656	1661298599230350389	novo_SUAP_2	61fd54120babe332
+1	436	1661298787507572401	CMakeFiles/novo_SUAP_2.dir/main.cpp.o	ee77500827b5aaba
+436	555	1661298787647573312	novo_SUAP_2	61fd54120babe332
+1	413	1661298864344217126	CMakeFiles/novo_SUAP_2.dir/main.cpp.o	ee77500827b5aaba
+413	495	1661298864428218160	novo_SUAP_2	61fd54120babe332
